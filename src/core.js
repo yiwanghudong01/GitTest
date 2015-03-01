@@ -3,12 +3,17 @@
 //18:48 2015/3/1
 
 
-//18:50 2015/3/1
+//18:50 2015/3/1  测试，不是乱码
+
+//20:42 2015/3/1
+
+//20:44 2015/3/1 代码加入测试
 var  CoreReels = function(count,len,symbols){
        this._reelsCount =   count;
        this._reelLength =   len;
        this._symbols      =  symbols;
        this._symbolsCountQueue = null;
+       TEst001=100;
 }
 CoreReels.prototype = {
          make:function(symbolCountQueue){

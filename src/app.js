@@ -1,3 +1,5 @@
+//代码格式怎么乱了？20:45 2015/3/1
+//20:48 2015/3/1 乱码
 //TESTOK 003
 var GameMainScene = cc.Scene.extend({
     layerUI:null,

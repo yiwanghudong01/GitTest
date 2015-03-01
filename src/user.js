@@ -1,3 +1,4 @@
+﻿//20:47 2015/3/1  缓存之前测试
 var GameUser =  function(){ 
        this._num_reveal    = 0;
        this._num_entries   = 0;

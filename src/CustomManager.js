@@ -1,3 +1,4 @@
+//20:46 2015/3/1 俐屎佚連。。。。。。。
 var CEvent = function(eventName,func,i,tag){
     this._name = eventName;
     this._func = func;
